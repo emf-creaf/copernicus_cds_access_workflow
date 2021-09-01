@@ -1,0 +1,27 @@
+id: copernicus_cds_access_workflow
+emf_type: workflow
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+nodes: ''
+authors:
+- vgranda
+- emf
+authors_aff:
+- CREAF
+- CREAF
+resource_link: workflows/copernicus_cds_access_workflow
+thematic: data_access
+tags:
+- r
+- data
+- copernicus
+- cds
+requirements: ''
+title: Copernicus CDS Access
+date: '2021-04-19'
+date_lastmod: '2021-09-01'
+categories: workflow
+description: Access to the Copernicus Climate Data Store from R
+
