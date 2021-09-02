@@ -1,4 +1,5 @@
 id: copernicus_cds_access_workflow
+title: Copernicus CDS Access
 emf_type: workflow
 emf_public: true
 emf_automatized: true
